@@ -4,6 +4,6 @@ Name: Andrew Bratton
 
 Major / program: Data Science and Analytics 
 
-Favorite dataset or industry interest:
+Favorite dataset or industry interest: Driveline (baseball biomechanics) OpenBiomechanics Dataset
 
 One reason I am studying analytics:
