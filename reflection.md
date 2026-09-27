@@ -1,0 +1,6 @@
+One thing I learned from the readings is how version control is less about memorizing commands and more about keeping a reliable history of your work. Chapter 1 of *GitHub for Dummies* defines version control systems as tools that keep track of each version of each file, along with a timestamp and the author of those changes, so you can go back to a previous working version if something breaks. The way I internalized this is that each commit is a checkpoint, while branches let you try something new without risking the main copy of the project.
+
+
+One challenge I faced was that pull requests did not make sense to me at first. I understood making changes on a branch, but I was unsure how a PR fit between that work and actually updating `main`. I went back to the Week 5 readings and the GitHub Docs Hello World tutorial until the compare-and-merge flow clicked, and only then did I feel confident opening and merging the branches.
+
+Looking ahead, I see GitHub helping future team projects by making collaboration more organized and transparent. Pull requests create a clear review step before changes land on `main`, and Issues give the team a shared place to track tasks and link them to the work that closes them. For analytics projects especially, that flow matters as teammates can see who changed a script, why it changed, and how the final analysis was built.
