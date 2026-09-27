@@ -6,4 +6,4 @@ Major / program: Data Science and Analytics
 
 Favorite dataset or industry interest: Driveline (baseball biomechanics) OpenBiomechanics Dataset
 
-One reason I am studying analytics:
+One reason I am studying analytics: I have always enjoyed the neverending puzzle feeling that solving problems in data has provided and I think it never gets old.
