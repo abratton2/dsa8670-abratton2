@@ -11,6 +11,10 @@ You will use it in **Week 5** to practice:
 
 Full instructions: **[Week 5 – GitHub Foundations](./week5.md)**
 
+### Why Version Control Matters for Analytics
+
+Analytics work rarely moves in a straight line: scripts change, datasets get cleaned, and models are tuned over many iterations. Version control keeps a clear history of those changes so you can see what was tried, recover earlier results, and avoid losing working code when an experiment fails. While in my undergrad, there were countless times I tried to fix a bug only for the entire script to fail with no way to recover the previous version. For an analytics team version control allows for cleaner handoffs, reproducible analyses, and an auditable trail from raw data to final insight.
+
 ---
 
 ## Learning Goals
